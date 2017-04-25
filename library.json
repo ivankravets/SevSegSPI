@@ -1,11 +1,12 @@
 {
   "name": "SevSegSPI",
+  "version": "1.0.0",
   "keywords": "seven segment display, sevseg",
   "description": "Connect 4 digit seven segment display via SPI interface",
   "repository":
   {
     "type": "git",
-    "url": "https://github.com/Fireshadow/Arduino-SevSegSPI.git"
+    "url": "https://github.com/fire0shadow/SevSegSPI.git"
   },
   "frameworks": "arduino",
   "platforms": "atmelavr"
